@@ -18,20 +18,20 @@ This repository contains the study, deliverable, data, and reference materials n
 📂 CS2-DS4002-SPR25
  ├── 📂 DATA/  
  ├──── 📂 INITIAL/
- │   │   ├── 
+ │   │   ├── 1 file
  ├──── 📂 FINAL/
  │   │   ├── 
  │
  ├── 📂 SCRIPTS/  
- │   ├── 
+ │   ├── 1 file
  │  
  ├── 📂 OUTPUT/
  │   ├── - 1 file
  │ 
  ├── 📂 REFERENCE MATERIALS  
- │   ├── 📂 REFERENCE MATERIALS  
- │   ├── 📂 REFERENCE MATERIALS  
- │   ├── 📂 REFERENCE MATERIALS  
+ │   ├── 📂 Motivation
+ │   ├── 📂 Data Context 
+ │   ├── 📂 Technical
  ├── README.md   
  ├── LICENSE.md   
  ├── S&P 500 Hook Document.pdf  
