@@ -1,26 +1,10 @@
 # CS2-DS4002-SPR25
 This repository contains the study, deliverable, data, and reference materials necessary to complete the Case Study.
 
-|- Data
-   | - Data (in google drive link)
-| - Scripts and Models
-   | - CNN and SVM Model
-| - Refrences
-   | - Data Context
-      | - 1 file
-   | - Motivation 
-      | - Data Context
-         | - 1 file
-   | - Technical
-      | - s files
-
-
 📂 CS2-DS4002-SPR25
  ├── 📂 DATA/  
- ├──── 📂 INITIAL/
- │   │   ├── 1 file
  ├──── 📂 FINAL/
- │   │   ├── 
+ │   │   ├── 1 file
  │
  ├── 📂 SCRIPTS/  
  │   ├── 1 file
@@ -34,8 +18,8 @@ This repository contains the study, deliverable, data, and reference materials n
  │   ├── 📂 Technical
  ├── README.md   
  ├── LICENSE.md   
- ├── S&P 500 Hook Document.pdf  
- ├── S&P 500 Time Series Analysis Rubric.pdf
+ ├── Hook Document.pdf  
+ ├── Rubric.pdf
 
 
 
