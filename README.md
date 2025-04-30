@@ -15,7 +15,7 @@ This repository contains the study, deliverable, data, and reference materials n
  ├── 📂 REFERENCE MATERIALS  
  │   ├── 📂 Motivation [1 file]
  │   ├── 📂 Data Context [1 file]
- │   ├── 📂 Technical [ 5 files ]
+ │   ├── 📂 Technical [5 files ]
  ├── README.md   
  ├── LICENSE.md   
  ├── Hook Document.pdf  
