@@ -4,13 +4,13 @@ This repository contains the study, deliverable, data, and reference materials n
 📂 CS2-DS4002-SPR25
  ├── 📂 DATA/  
  ├──── 📂 FINAL/
- │   │   ├── 1 file
+ │   │   ├── [1 file]
  │
  ├── 📂 SCRIPTS/  
- │   ├── 1 file
+ │   ├── [1 file]
  │  
  ├── 📂 OUTPUT/
- │   ├── - 1 file
+ │   ├── [1 file]
  │ 
  ├── 📂 REFERENCE MATERIALS  
  │   ├── 📂 Motivation [1 file]
