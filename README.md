@@ -1,6 +1,6 @@
 # CS2-DS4002-SPR25
 This repository contains the study, deliverable, data, and reference materials necessary to complete the Case Study.
-
+```
 📂 CS2-DS4002-SPR25
  ├── 📂 DATA/  
  ├──── 📂 FINAL/
@@ -13,14 +13,14 @@ This repository contains the study, deliverable, data, and reference materials n
  │   ├── - 1 file
  │ 
  ├── 📂 REFERENCE MATERIALS  
- │   ├── 📂 Motivation
- │   ├── 📂 Data Context 
- │   ├── 📂 Technical
+ │   ├── 📂 Motivation [1 file]
+ │   ├── 📂 Data Context [1 file]
+ │   ├── 📂 Technical [ 5 files ]
  ├── README.md   
  ├── LICENSE.md   
  ├── Hook Document.pdf  
  ├── Rubric.pdf
-
+```
 
 
 ## Important documentation
