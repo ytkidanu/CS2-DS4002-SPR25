@@ -32,5 +32,5 @@ Data is located in the "DATA" folder and includes a google drive link to the cle
 
 ## Refrence Material
 
-The "Reference Materials" folder contains helpful resources related to the context of the  issue (in the motovation folder), the ethics of augmenting, as well as how to build the best cnn and svm model (technical folder). Context on the movitvation as well as context on the dataset itself in the data context folder
+The "Materials" folder contains helpful resources related to the context of the  issue (in the motovation folder), the ethics of augmenting, as well as how to build the best cnn and svm model (technical folder). Context on the movitvation as well as context on the dataset itself in the data context folder
 
